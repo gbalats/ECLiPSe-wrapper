@@ -1,8 +1,8 @@
 ECLiPSe-wrapper
 ===============
 
-A wrapper that enables readline-like user input editing on the ECLiPSe
-constraint-solving framework. 
+A wrapper that enables readline-like user input editing on the 
+[ECLiPSe](http://eclipseclp.org/) constraint-solving framework. 
 
 Setup
 -----
